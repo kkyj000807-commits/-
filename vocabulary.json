@@ -1,0 +1,139 @@
+{
+  "hard_vocabulary": [
+    {
+      "word": "Ephemeral",
+      "pronunciation": "/ɪˈfɛm(ə)rəl/",
+      "part_of_speech": "adjective",
+      "definition": "Lasting for a very short time; transitory",
+      "example": "The ephemeral beauty of cherry blossoms makes them even more precious.",
+      "synonyms": ["transient", "fleeting", "momentary", "brief"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Ubiquitous",
+      "pronunciation": "/juːˈbɪkwɪtəs/",
+      "part_of_speech": "adjective",
+      "definition": "Present, appearing, or found everywhere",
+      "example": "Smartphones have become ubiquitous in modern society.",
+      "synonyms": ["omnipresent", "pervasive", "universal", "everywhere"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Perspicacious",
+      "pronunciation": "/ˌpəːspɪˈkeɪʃəs/",
+      "part_of_speech": "adjective",
+      "definition": "Having a ready insight into and understanding of things; mentally sharp or discerning",
+      "example": "Her perspicacious analysis of the situation helped us avoid a major crisis.",
+      "synonyms": ["perceptive", "astute", "shrewd", "discerning"],
+      "difficulty": "expert"
+    },
+    {
+      "word": "Obfuscate",
+      "pronunciation": "/ˈɒbfʌskeɪt/",
+      "part_of_speech": "verb",
+      "definition": "To make obscure, unclear, or unintelligible; to bewilder or confuse",
+      "example": "The politician tried to obfuscate the issue with complex jargon.",
+      "synonyms": ["confuse", "obscure", "muddle", "complicate"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Magnanimous",
+      "pronunciation": "/maɡˈnanɪməs/",
+      "part_of_speech": "adjective",
+      "definition": "Generous or forgiving, especially toward a rival or less powerful person",
+      "example": "Despite winning the debate, she was magnanimous toward her opponent.",
+      "synonyms": ["generous", "charitable", "benevolent", "noble"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Equivocate",
+      "pronunciation": "/ɪˈkwɪvəkeɪt/",
+      "part_of_speech": "verb",
+      "definition": "To use ambiguous language so as to conceal the truth or avoid committing oneself",
+      "example": "When asked about his plans, he equivocated rather than giving a direct answer.",
+      "synonyms": ["prevaricate", "hedge", "evade", "dodge"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Sycophant",
+      "pronunciation": "/ˈsɪkəfant/",
+      "part_of_speech": "noun",
+      "definition": "A person who acts obsequiously toward someone important in order to gain advantage",
+      "example": "He was surrounded by sycophants who agreed with everything he said.",
+      "synonyms": ["toady", "flatterer", "bootlicker", "yes-man"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Taciturn",
+      "pronunciation": "/ˈtasɪtəːn/",
+      "part_of_speech": "adjective",
+      "definition": "Reserved or uncommunicative in speech; saying little",
+      "example": "The taciturn scientist rarely spoke at meetings but his work spoke volumes.",
+      "synonyms": ["silent", "reticent", "uncommunicative", "reserved"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Ameliorate",
+      "pronunciation": "/əˈmiːlɪəreɪt/",
+      "part_of_speech": "verb",
+      "definition": "To make something bad or unsatisfactory better; to improve",
+      "example": "The new policies were designed to ameliorate living conditions in the city.",
+      "synonyms": ["improve", "enhance", "better", "upgrade"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Recalcitrant",
+      "pronunciation": "/rɪˈkalsɪtrənt/",
+      "part_of_speech": "adjective",
+      "definition": "Having an obstinately uncooperative attitude toward authority or discipline",
+      "example": "The recalcitrant student refused to follow the classroom rules.",
+      "synonyms": ["stubborn", "obstinate", "defiant", "uncooperative"],
+      "difficulty": "expert"
+    },
+    {
+      "word": "Juxtapose",
+      "pronunciation": "/ˌdʒʌkstəˈpəʊz/",
+      "part_of_speech": "verb",
+      "definition": "To place or deal with close together for contrasting effect",
+      "example": "The artist juxtaposed light and dark colors to create a dramatic effect.",
+      "synonyms": ["contrast", "compare", "set side by side"],
+      "difficulty": "intermediate"
+    },
+    {
+      "word": "Perfunctory",
+      "pronunciation": "/pəˈfʌŋkt(ə)ri/",
+      "part_of_speech": "adjective",
+      "definition": "Carried out with a minimum of effort or reflection; done merely as a routine",
+      "example": "He gave a perfunctory nod before returning to his work.",
+      "synonyms": ["cursory", "superficial", "mechanical", "routine"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Erudite",
+      "pronunciation": "/ˈɛrʊdʌɪt/",
+      "part_of_speech": "adjective",
+      "definition": "Having or showing great knowledge or learning",
+      "example": "The erudite professor could discuss any topic with impressive depth.",
+      "synonyms": ["learned", "scholarly", "knowledgeable", "educated"],
+      "difficulty": "advanced"
+    },
+    {
+      "word": "Vicarious",
+      "pronunciation": "/vɪˈkɛːrɪəs/",
+      "part_of_speech": "adjective",
+      "definition": "Experienced in the imagination through the feelings or actions of another person",
+      "example": "She got vicarious pleasure from reading about others' adventures.",
+      "synonyms": ["indirect", "secondhand", "surrogate"],
+      "difficulty": "intermediate"
+    },
+    {
+      "word": "Abstemious",
+      "pronunciation": "/əbˈstiːmɪəs/",
+      "part_of_speech": "adjective",
+      "definition": "Not self-indulgent, especially when eating and drinking; moderate",
+      "example": "His abstemious lifestyle contributed to his longevity and good health.",
+      "synonyms": ["temperate", "moderate", "restrained", "self-disciplined"],
+      "difficulty": "expert"
+    }
+  ]
+}
