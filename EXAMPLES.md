@@ -70,7 +70,7 @@ Part of Speech: adjective
 Difficulty: EXPERT
 ============================================================
 
-Definition: Having a ready insight into and understanding of things; mentally sharp
+Definition: Having a ready insight into and understanding of things; mentally sharp or discerning
 Example: Her perspicacious analysis of the situation helped us avoid a major crisis.
 Synonyms: perceptive, astute, shrewd, discerning
 ```

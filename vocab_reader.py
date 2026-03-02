@@ -47,8 +47,10 @@ def quiz_mode(vocabulary: List[Dict]):
     
     random.shuffle(vocabulary)
     score = 0
+    total_questions = 0
     
     for i, word_data in enumerate(vocabulary, 1):
+        total_questions = i
         print(f"\n\nQuestion {i}/{len(vocabulary)}")
         display_word(word_data, show_answer=False)
         
@@ -69,10 +71,13 @@ def quiz_mode(vocabulary: List[Dict]):
         else:
             print("✗ Keep studying!")
     
-    print(f"\n\n{'='*60}")
-    print(f"FINAL SCORE: {score}/{i}")
-    print(f"Percentage: {(score/i)*100:.1f}%")
-    print("="*60)
+    if total_questions > 0:
+        print(f"\n\n{'='*60}")
+        print(f"FINAL SCORE: {score}/{total_questions}")
+        print(f"Percentage: {(score/total_questions)*100:.1f}%")
+        print("="*60)
+    else:
+        print("\nNo questions answered.")
 
 def study_mode(vocabulary: List[Dict]):
     """Study mode - browse all words"""
